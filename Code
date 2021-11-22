@@ -4,8 +4,6 @@
 -- Was literally just copied and pasted from Roblox Studio, with some edits required to get working.
 ------------------------------------------------------------------------
 
-if not game.Loaded then game.Loaded:Wait() wait(3) end
-
 local occ = game:GetService'Players'.LocalPlayer.DevCameraOcclusionMode
 
 local pi    = math.pi
